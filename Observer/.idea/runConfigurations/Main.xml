@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Java Scratch">
+    <option name="ALTERNATIVE_JRE_PATH" value="15" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="Observer" />
+    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/Main.java" />
+    <shortenClasspath name="NONE" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+    </method>
+  </configuration>
+</component>

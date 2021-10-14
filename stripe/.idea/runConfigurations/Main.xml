@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Java Scratch" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="C:\Users\NergizUnal\Desktop\amazon\Codes\stripe\src\main\java\main.java" />
+    <module name="stripe" />
+    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/main/java/main.java" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+      <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+    </method>
+  </configuration>
+</component>
